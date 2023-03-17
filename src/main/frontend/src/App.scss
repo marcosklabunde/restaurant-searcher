@@ -1,0 +1,12 @@
+.app-container {
+    width: 1200px;
+    margin: 100px auto;
+
+    .title {
+        width: fit-content;
+        margin: auto;
+        color: darkgray;
+        margin-bottom: 30px;
+        font-size: 40px;
+    }
+}

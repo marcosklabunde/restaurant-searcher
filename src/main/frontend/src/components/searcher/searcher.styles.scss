@@ -1,0 +1,24 @@
+.searcher-container {
+    width: 100%;
+
+    .form {
+        display: flex;
+        flex-direction: column;
+
+        .fields-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-bottom: 30px;
+
+            .field {
+                width: 200px;
+            }
+        }
+
+        button {
+            width: 200px;
+            margin-left: auto;
+        }
+    }
+}
